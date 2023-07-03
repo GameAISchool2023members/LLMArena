@@ -10,7 +10,17 @@ The goal is to win all fights while using as few of your fighter's lives and **w
 
 A winner is decided by LLM (this, LLMArena, we tried many open models but we use GPT-4 for the demo), so use common sense or try to mess with prompts.
 
-**We have 13 levels and 99 lives**
+**We have 14 levels and 99 lives**
+
+Levels:
+
+level 1: a rabbit vs a wolf
+
+...
+
+level 13: Kasparov vs DeepBlue
+
+level 14: seee it yourself!
 
 Leaderboard:
 
