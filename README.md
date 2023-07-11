@@ -25,3 +25,7 @@ level 14: seee it yourself!
 Leaderboard:
 
 _Marko, Martin & Dante: total characters spent: 1832, lives left: 9_
+
+# UPDATE July, 11, 2023
+We made it to a (more real) game:
+[llmarena.com](llmarena.com)
